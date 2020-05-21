@@ -34,7 +34,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  num = 81
-  puts Integer.sqrt(num)
-  num
+  sum = Math.sqrt(81)
+  sum
 end
